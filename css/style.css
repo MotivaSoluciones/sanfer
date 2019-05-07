@@ -1061,7 +1061,7 @@ nav > ul > li > .fa {
 
 nav > ul > li > a:hover,
 nav > ul > li > a.active {
-	color: #000000;
+	color: #E62C35;
 	cursor: pointer;
 }
 
@@ -2371,7 +2371,7 @@ header .icon-entry .text b {
 	}
 
 	#content-block header {
-		background-color: #000000;
+		background-color: #E62C35;
 		position: fixed;
 		padding: 0 30px;
 		top: 0;
